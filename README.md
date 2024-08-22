@@ -1,8 +1,5 @@
 # Movie-Detail-Finder
 
-## Link to visit the page
-https://gitatd.github.io/Movie-Detail-Finder/
-
 ## Overview
 This is a website which provides you details of the movie that you want.
 
@@ -25,6 +22,9 @@ This is a website which provides you details of the movie that you want.
 ## Usage
 - Enter the name of the movie, you want to get the details of, in the textfield shown in the page.
 - As soon as you enter the name, you will get the details, if the movie is present in the JSON file attached.
+
+## Link to visit the page
+https://gitatd.github.io/Movie-Detail-Finder/
 
 **IMPORTANT:**
 Make sure you enter the full name of the movie along with the correct spelling, as mentioned above in the list of the movies, to get the details.
