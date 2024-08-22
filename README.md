@@ -1,25 +1,25 @@
 # Movie-Detail-Finder
 
-# Overview
+## Overview
 This is a website which provides you details of the movie that you want.
 
-# Features
+## Features
 - Simple user interface assisting users to interact with the website.
 - Quick response with useful information
 
-# Technologies Used
+## Technologies Used
 - HTML 5
 - CSS 3
 - Javascript
 
-# Movies that can be searched here
+## Movies that can be searched here
 - Star Wars: Episode IV - A New Hope
 - The Godfather
 - Jurassic Park
 - Avatar
 - Interstellar
 
-# Usage
+## Usage
 - Enter the name of the movie, you want to get the details of, in the textfield shown in the page.
 - As soon as you enter the name, you will get the details, if the movie is present in the JSON file attached.
 
