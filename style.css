@@ -1,0 +1,40 @@
+body
+{
+    background-color: bisque;
+    font-family: "Comic Sans MS";
+    font-size: 1rem;
+}
+
+#MName
+{
+    font-family: "Comic Sans MS";
+}
+
+#movie
+{
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+    padding: 1.5%;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    border: 1px solid sandybrown;
+}
+
+#movie_details
+{
+    margin: auto;
+    margin-top: 1em;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#movie_details th, #movie_details td
+{
+    border: 1px solid black;
+}
+
+#movie_details td
+{
+    padding: 1rem;
+}
