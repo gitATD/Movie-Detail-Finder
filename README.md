@@ -1,5 +1,8 @@
 # Movie-Detail-Finder
 
+## Link to visit the page
+https://gitatd.github.io/Movie-Detail-Finder/
+
 ## Overview
 This is a website which provides you details of the movie that you want.
 
